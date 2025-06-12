@@ -26,9 +26,11 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+// 🟢 This now makes /Users/Index your home page
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Users}/{action=Index}/{id?}");
 
 app.Run();
+
 
