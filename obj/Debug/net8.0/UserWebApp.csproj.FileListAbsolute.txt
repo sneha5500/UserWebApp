@@ -274,3 +274,4 @@
 /Users/snehagurram/UserWebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
 /Users/snehagurram/UserWebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
 /Users/snehagurram/UserWebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/snehagurram/UserWebApp/obj/Debug/net8.0/UserWebApp.sourcelink.json

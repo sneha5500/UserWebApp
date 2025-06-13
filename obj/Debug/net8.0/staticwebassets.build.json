@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1lHlpR8CsNd9/elnsWPz7vkh9mXNL0Qkmwqmf+dAecA=",
+  "Hash": "RFokCz2QDmcorqmcMeV1mRh4YxeiuwfsfvnFrZQFrqg=",
   "Source": "UserWebApp",
   "BasePath": "_content/UserWebApp",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/Users/snehagurram/UserWebApp/wwwroot/uploads/0b0d3cf3-36d1-49f9-b4d2-6989ccccb6a6.jpeg",
+      "SourceId": "UserWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/snehagurram/UserWebApp/wwwroot/",
+      "BasePath": "_content/UserWebApp",
+      "RelativePath": "uploads/0b0d3cf3-36d1-49f9-b4d2-6989ccccb6a6.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/0b0d3cf3-36d1-49f9-b4d2-6989ccccb6a6.jpeg"
     }
   ]
 }

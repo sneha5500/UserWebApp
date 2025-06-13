@@ -245,6 +245,10 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
+      "Id": "/Users/snehagurram/UserWebApp/wwwroot/uploads/0b0d3cf3-36d1-49f9-b4d2-6989ccccb6a6.jpeg",
+      "PackagePath": "staticwebassets/uploads/0b0d3cf3-36d1-49f9-b4d2-6989ccccb6a6.jpeg"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.UserWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

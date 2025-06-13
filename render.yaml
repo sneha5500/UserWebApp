@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: userwebapp
-    runtime: dotnet
-    buildCommand: dotnet publish -c Release -o out
-    startCommand: dotnet out/UserWebApp.dll
-    plan: free
